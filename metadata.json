@@ -1,0 +1,5 @@
+{
+  "name": "Cleaning & Sanitization Manual",
+  "description": "An interactive, bilingual web application for the 'Ca' Scapin' cleaning and sanitization operational manual, complete with a clickable chapter index, data visualizations, and an AI-powered assistant to answer questions about the procedures.",
+  "requestFramePermissions": []
+}
